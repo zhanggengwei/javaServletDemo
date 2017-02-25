@@ -73,7 +73,7 @@ public class SqlDataBaseManager
                 SqlDataBaseManager.instace =
                         new SqlDataBaseManager();
 
-                
+
             }
         }
         return SqlDataBaseManager.instace;

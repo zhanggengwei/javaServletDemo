@@ -9,8 +9,18 @@ public class ToolsInstace<T>
     private static ToolsInstace obj;
     //private static Array<ToolsInstace<T>>
     private ToolsInstace()
-    
     {
+
+
+
+
+
+
+
+
+
+
+        
 
     }
 
